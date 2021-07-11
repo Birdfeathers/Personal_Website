@@ -1,0 +1,14 @@
+.interest_pic{
+    padding:20px;
+}
+div:nth-child(2n) .interest_pic{
+    float:left;
+}
+div:nth-child(2n +1) .interest_pic{
+    float:right;
+}
+
+hr{
+    clear:both;
+}
+

@@ -1,0 +1,17 @@
+.project_pic{
+    padding:20px;
+}
+div:nth-child(2n) .project_pic{
+    float:left;
+}
+
+div:nth-child(2n +1) .project_pic{
+    float:right;
+}
+div{
+    clear:both;
+    border: solid black 1px;
+    padding:10px;
+    margin: 40px;
+    background-color: white;
+}

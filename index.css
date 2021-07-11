@@ -1,0 +1,14 @@
+img{
+    height: 300px;
+}
+#quote{
+    font-style: italic;
+    font-size: x-large;
+    color: blue;
+    text-align: center;
+}
+
+#author{
+    color:blue;
+    text-align: center;
+}
